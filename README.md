@@ -29,14 +29,7 @@ Use at Your Own Risk: This tool provides simulated advice and map enhancements b
 Contributing
 We urge users to provide feedback to enhance the accuracy and usability of the tool. Contributions from the community are welcome:
 
-Fork the Repository
-Create a New Branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make Your Changes
-Submit a Pull Request
-Please ensure you follow the code of conduct and adhere to the project's coding standards.
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
